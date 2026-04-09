@@ -1,2 +1,3 @@
-# dataset-neighborhood-distribution-rates-for-cons
-Curated Institutional Market Data Release
+# Neighborhood Distribution Rates for Consumer Electronics in Manhattan
+
+Dataset by King Pawn USA.
